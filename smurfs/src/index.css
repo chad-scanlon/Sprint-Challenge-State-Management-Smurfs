@@ -1,5 +1,7 @@
 body {
-  margin: 0;
-  padding: 0;
   font-family: sans-serif;
+  max-width: 98%;
+  background-image: url("./assets/village.jpeg");
+  background-size: 1600px;
+  background-repeat: no-repeat;
 }
